@@ -1,7 +1,9 @@
 # fractal
 projet graphic qui consiste à réaliser des fractales
 
-
+utilisation :
+make
+./fracol  mandelbrot | julia | burningship
 
 
 ![Screenshot](score.png)
